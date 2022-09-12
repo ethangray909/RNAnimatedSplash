@@ -1,0 +1,16 @@
+R_DEF: Internal format may change without notice
+local
+anim faday
+anim fadein_dialog
+anim fadeout_dialog
+anim flip_animation
+anim slide_down
+anim slide_left
+anim slide_right
+anim slide_up
+style AppTheme
+style DialogTheme
+style fade
+style slideDown
+style slideLeft
+style slideRight
